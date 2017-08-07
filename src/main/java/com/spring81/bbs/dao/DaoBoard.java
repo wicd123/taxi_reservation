@@ -34,7 +34,7 @@ public class DaoBoard implements IDaoBoard {
 
     @Override
     public int getBoardTotalRecord(String boardcd, String searchWord) {
-        // TODO Auto-generated method stub
+        // TODO Auto-generated method stubaseassaease12341235314123
         return 0;
     }
 
